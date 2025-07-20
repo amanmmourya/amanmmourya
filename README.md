@@ -82,6 +82,6 @@ Autonomous bot using YOLO and Arduino for object detection and tracking.
 
 ---
 
-_“Consistency beats talent when talent doesn't work consistently.”_
+_“Live life to the fullest and love everyone.”_
 
 

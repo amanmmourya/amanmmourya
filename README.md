@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Aman Mourya
 
 🎓 3rd Year B.Tech. Student in Electronics and Communication Engineering  
-📍 SVNIT Surat | 💡 Passionate Developer | 🤖 Future Machine Learning Engineer
+📍 SVNIT Surat | 💡 Passionate Developer | 🤖 Machine Learning Innovator
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat-square)](https://aman-mourya.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aman-mourya-976633280/)
@@ -13,9 +13,9 @@
 
 I am a dedicated and tech-driven student with strong experience in full-stack development, machine learning, and data structures & algorithms (DSA). I love building scalable products that solve real-world problems and have worked across a variety of domains — from AI-powered healthcare systems to real-time communication platforms.
 
-- 🔭 Currently exploring advanced ML, computer vision, and LLMs
+- 🔭 Currently exploring ML, computer vision, and LLMs
 - 💻 Solved **350+ DSA problems** on LeetCode & GFG
-- 🌱 Learning more about system design and cloud-native development
+- 🌱 Learning more about ML, DS and Modern Web Dev Technologies
 
 ---
 
@@ -25,7 +25,7 @@ I am a dedicated and tech-driven student with strong experience in full-stack de
 **Web Stack:** React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, Redux Toolkit, Socket.io, FastAPI  
 **ML & Data:** Pandas, NumPy, Scikit-learn, OpenCV, YOLO, LangChain, FAISS  
 **Tools:** Git, Docker, Postman, Jupyter, PyCharm, Arduino IDE, Google Colab  
-**CS Fundamentals:** OOP, DBMS, DSA, System Design Basics
+**CS Fundamentals:** OOP, DBMS, DSA
 
 ---
 

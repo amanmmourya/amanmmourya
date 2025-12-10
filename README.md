@@ -13,8 +13,8 @@
 
 I am a dedicated and tech-driven student with strong experience in full-stack development, machine learning, and data structures & algorithms (DSA). I love building scalable products that solve real-world problems and have worked across a variety of domains — from AI-powered healthcare systems to real-time communication platforms.
 
-- 🔭 Currently exploring ML, computer vision, and LLMs
-- 💻 Solved **400+ DSA problems** on LeetCode & GFG
+- 🔭 Currently exploring ML, Web Development Technologies and LLMs
+- 💻 Solved **500+ DSA problems** across LeetCode,Codeforces,Codechef & GFG
 - 🌱 Learning more about ML, DS and Modern Web Dev Technologies
 
 ---

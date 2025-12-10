@@ -25,9 +25,9 @@ I am a dedicated and tech-driven student with strong experience in full-stack de
 **Web Stack:** React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, Redux Toolkit, Socket.io, FastAPI  
 **ML & Data:** Pandas, NumPy, Scikit-learn, OpenCV, YOLO, LangChain, FAISS  
 **Tools:** Git, Docker, Postman, Jupyter, PyCharm, Arduino IDE, Google Colab  
-**CS Fundamentals:** OOP, DBMS, DSA
+**CS Fundamentals:** OOPs, DBMS, CN and OS
 
----
+
 
 ## 🚀 Projects
 

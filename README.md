@@ -29,7 +29,7 @@ I am a dedicated and tech-driven student with strong experience in full-stack de
 
 
 
-##🚀 Projects
+## 🚀 Projects
 
 🔗 Sunrise Events · GitHub Repo
 

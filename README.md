@@ -31,47 +31,67 @@ I am a dedicated and tech-driven student with strong experience in full-stack de
 
 ## 🚀 Projects
 
-🔗 Sunrise Events · GitHub Repo
+### 🔗 [Sunrise Events](https://event-booking-five-rho.vercel.app/) · [GitHub Repo](https://github.com/amanmmourya/Sunrise-Events)
 
-Full-stack wedding and event booking platform with AI-powered assistance, vendor discovery, and admin dashboards.
+Full-stack wedding and event booking platform with AI-powered assistance, secure authentication, and admin dashboards for managing bookings and services.
 
-Stack: React.js, Node.js, MongoDB, JWT, LangChain
+> **Stack:** React.js, Node.js, MongoDB, JWT, LangChain
 
-🔗 ThoughtFlow · GitHub Repo
+---
 
-Real-time messaging platform supporting personal and group chats with live communication features.
+### 🔗 [ThoughtFlow](https://thought-flow-react.vercel.app/) · [GitHub Repo](https://github.com/amanmmourya/ThoughtFlow-React)
 
-Stack: React.js, Tailwind CSS, Node.js, Socket.io, Redux Toolkit, MongoDB
+Real-time chat application supporting personal and group conversations with live messaging, responsive UI, and smooth state management.
 
-🔗 Medical Prescription System · GitHub Repo
+> **Stack:** React.js, Tailwind CSS, Node.js, Socket.io, Redux Toolkit, MongoDB
 
-AI-driven medical assistance platform for disease prediction and semantic medicine recommendations using LLM-powered retrieval.
+---
 
-Stack: Next.js, Scikit-learn, FastAPI, LangChain, FAISS, Python
+### 🔗 [Medical Prescription System](https://medvice-system.vercel.app/) · [GitHub Repo](https://github.com/amanmmourya/Machine-Learning-MPS)
 
-🔗 FinPilot
+AI-powered healthcare assistant for disease prediction and semantic medicine recommendations using machine learning models, LLM workflows, and retrieval-based medical guidance.
 
-AI-powered finance manager with OCR-based expense tracking and analytics for better spending insights.
+> **Stack:** Next.js, Scikit-learn, FastAPI, LangChain, FAISS, Python
 
-Stack: Next.js, Express.js, MySQL, LangChain
+---
 
-🔗 Real-Time Intelligent Surveillance and Crowd Behavior Analysis System
+### 🔗 [FinPilot](https://github.com/amanmmourya/FinPilot)
 
-AI-based surveillance system for real-time detection of intrusion, loitering, abandoned objects, and crowd anomalies using computer vision and anomaly detection.
+AI-powered personal finance manager with OCR-based expense tracking, analytics dashboards, and intelligent insights for monitoring spending habits.
 
-Stack: Python, YOLOv8, ByteTrack, OpenCV, Isolation Forest
+> **Stack:** Next.js, Express.js, MySQL, LangChain
 
-🔗 IoT-Based Parking Management System
+---
 
-Smart parking management system using ESP32 and a live React dashboard to monitor parking slot availability in real time.
+### 🔗 [Real-Time Intelligent Surveillance & Crowd Behavior Analysis](https://github.com/amanmmourya/Real-Time-Intelligent-Surveillance-and-Crowd-Behavior-Analysis-System)
 
-Stack: ESP32, Arduino IDE, React.js, IoT
+AI-based surveillance system for real-time detection of intrusion, loitering, abandoned objects, and crowd anomalies from video streams. Built a modular analytics pipeline for object detection, multi-object tracking, anomaly detection, and automated alert generation, achieving **85.38% average detection accuracy** for low-latency monitoring.
 
-🔗 Object Following Bot
+> **Stack:** Python, YOLOv8, ByteTrack, OpenCV, Isolation Forest
 
-Autonomous bot for real-time object detection and tracking using YOLO and Arduino-based actuation.
+---
 
-Stack: Python, OpenCV, YOLO, Arduino, Serial Communication
+### 🔗 [IoT-Based Parking Management System](https://github.com/amanmmourya/IOT-Parking-System)
+
+Smart parking management system that tracks parking slot availability in real time using ESP32 sensors and displays live slot status through a React-based dashboard.
+
+> **Stack:** ESP32, Arduino IDE, React.js, IoT, JavaScript
+
+---
+
+### 🔗 [Object Following Bot](https://github.com/amanmmourya/Object-Following-bot)
+
+Autonomous object-following robot built using computer vision and embedded hardware for real-time object detection, tracking, and movement control.
+
+> **Stack:** Python, OpenCV, YOLO, Arduino, Serial Communication
+
+---
+
+## 💼 Experience & Contributions
+
+* 🧠 **Executive Member**, [ACM SVNIT](https://svnit.acm.org) — Participated in hackathons, technical events, and developer community activities.
+* 🤖 **Member, Drishti Robotics Club** — Built robotics and computer vision projects, including an autonomous object-following bot using YOLO and OpenCV.
+* 🌐 **Member, Google Developer Group SVNIT** — Collaborated on full-stack projects and participated in community-driven technical initiatives.
 
 ## 📫 Let's Connect!
 
